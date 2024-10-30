@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN ImageFlow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-23 10:55+0100\n"
+"PO-Revision-Date: 2010-04-23 10:55+0100\n"
+"Last-Translator: Boris Glumpler <boris@shabushabu-webdesign.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-advanced-seo.php:239
+#: admin/bpseo-admin.php:297
+msgid "Support Forums"
+msgstr ""
+
+#: bp-advanced-seo.php:240
+#: admin/bpseo-admin.php:298
+#: admin/bpseo-settings.php:132
+#: admin/bpseo-settings.php:380
+msgid "Donate"
+msgstr ""
+
+#: _inc/bpseo-core.php:55
+#, php-format
+msgid " - Page: %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:59
+#, php-format
+msgid " - Comments Page: %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:95
+#, php-format
+msgid "Archives for the year %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:95
+#: _inc/bpseo-core.php:406
+msgid "Y"
+msgstr ""
+
+#: _inc/bpseo-core.php:99
+#, php-format
+msgid "Archives for the month %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:99
+msgid "F, Y"
+msgstr ""
+
+#: _inc/bpseo-core.php:103
+#: _inc/bpseo-core.php:113
+#, php-format
+msgid "Archives for %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:103
+msgid "F jS, Y"
+msgstr ""
+
+#: _inc/bpseo-core.php:107
+#, php-format
+msgid "Tag archives for %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:117
+#, php-format
+msgid "Search results for '%1$s'"
+msgstr ""
+
+#: _inc/bpseo-core.php:121
+#, php-format
+msgid "Archives for the category %1$s"
+msgstr ""
+
+#: _inc/bpseo-core.php:125
+msgid "Error 404 - Nothing found"
+msgstr ""
+
+#: _inc/bpseo-core.php:147
+#: _inc/bpseo-core.php:150
+#, php-format
+msgid "%s Directory"
+msgstr ""
+
+#: _inc/bpseo-core.php:154
+msgid "Create an Account"
+msgstr ""
+
+#: _inc/bpseo-core.php:158
+msgid "Activate your Account"
+msgstr ""
+
+#: _inc/bpseo-core.php:388
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: _inc/bpseo-core.php:389
+#, php-format
+msgid "<meta name=\"revised\" content=\"%1$s by %2$s\" />"
+msgstr ""
+
+#: _inc/bpseo-core.php:404
+msgid "F Y"
+msgstr ""
+
+#: _inc/bpseo-core.php:408
+#, php-format
+msgid "<meta name=\"copyright\" content=\"Copyright (c) %1$s\" />"
+msgstr ""
+
+#: admin/bpseo-admin.php:34
+msgid "BP Advanced SEO"
+msgstr ""
+
+#: admin/bpseo-admin.php:43
+#: admin/bpseo-admin.php:44
+msgid "SEO Options"
+msgstr ""
+
+#: admin/bpseo-admin.php:56
+msgid "Title"
+msgstr ""
+
+#: admin/bpseo-admin.php:57
+msgid "Enter a title to use for SEO purposes. Only needed if you want to use a different title than the post/page title."
+msgstr ""
+
+#: admin/bpseo-admin.php:63
+msgid "Keywords"
+msgstr ""
+
+#: admin/bpseo-admin.php:64
+msgid "Enter some keywords for SEO purposes."
+msgstr ""
+
+#: admin/bpseo-admin.php:70
+#: admin/bpseo-settings.php:292
+#: admin/bpseo-settings.php:316
+#: admin/bpseo-settings.php:346
+msgid "Description"
+msgstr ""
+
+#: admin/bpseo-admin.php:71
+msgid "Enter a description for SEO purposes. Not neccesary, but a custom description is better than the automatically generated one. Search engines usually do not show more than 160 chars."
+msgstr ""
+
+#: admin/bpseo-admin.php:140
+#: admin/bpseo-admin.php:143
+#: admin/bpseo-settings.php:155
+#: admin/bpseo-settings.php:158
+msgid "chars"
+msgstr ""
+
+#: admin/bpseo-admin.php:295
+msgid "Get help for BP SEO"
+msgstr ""
+
+#: admin/bpseo-settings.php:68
+msgid "Update Successfully"
+msgstr ""
+
+#: admin/bpseo-settings.php:130
+#: admin/bpseo-settings.php:163
+msgid "Settings"
+msgstr ""
+
+#: admin/bpseo-settings.php:131
+#: admin/bpseo-settings.php:284
+msgid "Help"
+msgstr ""
+
+#: admin/bpseo-settings.php:173
+msgid "Home Title"
+msgstr ""
+
+#: admin/bpseo-settings.php:176
+msgid "Enter a title for the home page if you don't want to use your tagline."
+msgstr ""
+
+#: admin/bpseo-settings.php:180
+msgid "Home Description"
+msgstr ""
+
+#: admin/bpseo-settings.php:184
+msgid "Description for your home page/front page. Shouldn't be more than 160 letters."
+msgstr ""
+
+#: admin/bpseo-settings.php:188
+msgid "Home Keywords"
+msgstr ""
+
+#: admin/bpseo-settings.php:191
+msgid "Enter a comma seperated list of keywords that describe your home page/front page"
+msgstr ""
+
+#: admin/bpseo-settings.php:195
+msgid "Profile Field (Description)"
+msgstr ""
+
+#: admin/bpseo-settings.php:198
+msgid "Enter the name of a profile field, e.g. 'About Me'. This will be the meta description for profile pages."
+msgstr ""
+
+#: admin/bpseo-settings.php:202
+msgid "Profile Field (Keywords)"
+msgstr ""
+
+#: admin/bpseo-settings.php:205
+msgid "Enter the name of a profile field, e.g. 'Tags'. This will be the meta keywords for profile pages."
+msgstr ""
+
+#: admin/bpseo-settings.php:209
+msgid "No Index Options"
+msgstr ""
+
+#: admin/bpseo-settings.php:213
+msgid "Check this to use noindex on archive pages."
+msgstr ""
+
+#: admin/bpseo-settings.php:217
+msgid "Check this to use noindex on tag archives."
+msgstr ""
+
+#: admin/bpseo-settings.php:221
+msgid "Check this to use noindex on taxonomy archives."
+msgstr ""
+
+#: admin/bpseo-settings.php:225
+msgid "Check this to use noindex on category pages."
+msgstr ""
+
+#: admin/bpseo-settings.php:229
+msgid "Check this to use noindex on author archives."
+msgstr ""
+
+#: admin/bpseo-settings.php:233
+msgid "Check this to use noindex on directory pages."
+msgstr ""
+
+#: admin/bpseo-settings.php:237
+msgid "Check this to use noindex on the registration page."
+msgstr ""
+
+#: admin/bpseo-settings.php:241
+msgid "Check this to use noindex on the activation page."
+msgstr ""
+
+#: admin/bpseo-settings.php:246
+msgid "Update"
+msgstr ""
+
+#: admin/bpseo-settings.php:286
+#, php-format
+msgid "To receive support for this plugin, please <a href=\"%s\">register</a> on <a href=\"%s\">ShabuShabu.eu</a>."
+msgstr ""
+
+#: admin/bpseo-settings.php:287
+msgid "Registration is free. Support, however, will only be provided within the support group of this plugin, for which we charge a small monthly subscription fee."
+msgstr ""
+
+#: admin/bpseo-settings.php:293
+#: admin/bpseo-settings.php:318
+#: admin/bpseo-settings.php:348
+msgid "Price"
+msgstr ""
+
+#: admin/bpseo-settings.php:309
+msgid "Below you find a list of all our available and planned plugins and themes. Items that have a price tag attached come with 3 months free support."
+msgstr ""
+
+#: admin/bpseo-settings.php:311
+msgid "Plugins"
+msgstr ""
+
+#: admin/bpseo-settings.php:315
+#: admin/bpseo-settings.php:345
+msgid "Name"
+msgstr ""
+
+#: admin/bpseo-settings.php:317
+#: admin/bpseo-settings.php:347
+msgid "Release Date"
+msgstr ""
+
+#: admin/bpseo-settings.php:341
+msgid "Themes"
+msgstr ""
+
+#: admin/bpseo-settings.php:382
+msgid "We spend a lot of time and effort on implementing new features and on the maintenance of this plugin, so if you feel generous and have a few bucks to spare, then please consider to donate."
+msgstr ""
+
+#: admin/bpseo-settings.php:383
+msgid "Click on the button below and you will be redirected to the PayPal site where you can make a safe donation"
+msgstr ""
+
+#: admin/bpseo-settings.php:387
+msgid "BP Advanced SEO @ http://shabushabu.eu"
+msgstr ""
+
+#: admin/bpseo-settings.php:394
+msgid "Make payments with PayPal - it's fast, free and secure!"
+msgstr ""
+
+#: admin/bpseo-settings.php:397
+msgid "Thank you and all the best!"
+msgstr ""
+
